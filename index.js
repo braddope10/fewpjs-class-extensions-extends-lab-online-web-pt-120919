@@ -48,4 +48,5 @@ class Square extends Polygon {
         if (this.count !==4) return;
         return this.sides[0] * this.sides[0]
     }
+
 }
